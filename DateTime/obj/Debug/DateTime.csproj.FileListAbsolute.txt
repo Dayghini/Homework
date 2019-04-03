@@ -1,0 +1,6 @@
+C:\Users\Pavel\Documents\Homework\Homework1\DateTime\obj\Debug\DateTime.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\Documents\Homework\Homework1\DateTime\bin\Debug\DateTime.exe.config
+C:\Users\Pavel\Documents\Homework\Homework1\DateTime\bin\Debug\DateTime.exe
+C:\Users\Pavel\Documents\Homework\Homework1\DateTime\bin\Debug\DateTime.pdb
+C:\Users\Pavel\Documents\Homework\Homework1\DateTime\obj\Debug\DateTime.exe
+C:\Users\Pavel\Documents\Homework\Homework1\DateTime\obj\Debug\DateTime.pdb

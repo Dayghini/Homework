@@ -1,0 +1,6 @@
+C:\Users\Pavel\Documents\Homework\Homework1\FirstAndLastName\bin\Debug\FirstAndLastName.exe.config
+C:\Users\Pavel\Documents\Homework\Homework1\FirstAndLastName\bin\Debug\FirstAndLastName.exe
+C:\Users\Pavel\Documents\Homework\Homework1\FirstAndLastName\bin\Debug\FirstAndLastName.pdb
+C:\Users\Pavel\Documents\Homework\Homework1\FirstAndLastName\obj\Debug\FirstAndLastName.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\Documents\Homework\Homework1\FirstAndLastName\obj\Debug\FirstAndLastName.exe
+C:\Users\Pavel\Documents\Homework\Homework1\FirstAndLastName\obj\Debug\FirstAndLastName.pdb

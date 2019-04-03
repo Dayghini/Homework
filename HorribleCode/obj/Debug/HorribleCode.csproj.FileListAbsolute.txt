@@ -1,0 +1,6 @@
+C:\Users\Pavel\Documents\Homework\Homework1\HorribleCode\bin\Debug\HorribleCode.exe.config
+C:\Users\Pavel\Documents\Homework\Homework1\HorribleCode\bin\Debug\HorribleCode.exe
+C:\Users\Pavel\Documents\Homework\Homework1\HorribleCode\bin\Debug\HorribleCode.pdb
+C:\Users\Pavel\Documents\Homework\Homework1\HorribleCode\obj\Debug\HorribleCode.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\Documents\Homework\Homework1\HorribleCode\obj\Debug\HorribleCode.exe
+C:\Users\Pavel\Documents\Homework\Homework1\HorribleCode\obj\Debug\HorribleCode.pdb

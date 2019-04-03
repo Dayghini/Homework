@@ -1,0 +1,6 @@
+C:\Users\Pavel\Documents\Homework\Homework1\SquareRoot\obj\Debug\SquareRoot.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\Documents\Homework\Homework1\SquareRoot\bin\Debug\SquareRoot.exe.config
+C:\Users\Pavel\Documents\Homework\Homework1\SquareRoot\bin\Debug\SquareRoot.exe
+C:\Users\Pavel\Documents\Homework\Homework1\SquareRoot\bin\Debug\SquareRoot.pdb
+C:\Users\Pavel\Documents\Homework\Homework1\SquareRoot\obj\Debug\SquareRoot.exe
+C:\Users\Pavel\Documents\Homework\Homework1\SquareRoot\obj\Debug\SquareRoot.pdb

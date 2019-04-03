@@ -1,0 +1,6 @@
+C:\Users\Pavel\Documents\Homework\Homework1\PrintingNumbers\bin\Debug\PrintingNumbers.exe.config
+C:\Users\Pavel\Documents\Homework\Homework1\PrintingNumbers\bin\Debug\PrintingNumbers.exe
+C:\Users\Pavel\Documents\Homework\Homework1\PrintingNumbers\bin\Debug\PrintingNumbers.pdb
+C:\Users\Pavel\Documents\Homework\Homework1\PrintingNumbers\obj\Debug\PrintingNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\Documents\Homework\Homework1\PrintingNumbers\obj\Debug\PrintingNumbers.exe
+C:\Users\Pavel\Documents\Homework\Homework1\PrintingNumbers\obj\Debug\PrintingNumbers.pdb

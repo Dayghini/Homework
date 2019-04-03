@@ -1,0 +1,6 @@
+C:\Users\Pavel\Documents\Homework\Homework1\PrintingSequence\obj\Debug\PrintingSequence.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\Documents\Homework\Homework1\PrintingSequence\bin\Debug\PrintingSequence.exe.config
+C:\Users\Pavel\Documents\Homework\Homework1\PrintingSequence\bin\Debug\PrintingSequence.exe
+C:\Users\Pavel\Documents\Homework\Homework1\PrintingSequence\bin\Debug\PrintingSequence.pdb
+C:\Users\Pavel\Documents\Homework\Homework1\PrintingSequence\obj\Debug\PrintingSequence.exe
+C:\Users\Pavel\Documents\Homework\Homework1\PrintingSequence\obj\Debug\PrintingSequence.pdb

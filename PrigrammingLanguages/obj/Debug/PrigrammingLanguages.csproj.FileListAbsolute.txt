@@ -1,0 +1,2 @@
+C:\Users\Pavel\Documents\Homework\Homework1\PrigrammingLanguages\obj\Debug\PrigrammingLanguages.csprojAssemblyReference.cache
+C:\Users\Pavel\Documents\Homework\Homework1\PrigrammingLanguages\obj\Debug\PrigrammingLanguages.csproj.CoreCompileInputs.cache

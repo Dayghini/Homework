@@ -1,0 +1,7 @@
+C:\Users\Pavel\Documents\Homework\Homework1\PrintMyName\bin\Debug\PrintMyName.exe.config
+C:\Users\Pavel\Documents\Homework\Homework1\PrintMyName\bin\Debug\PrintMyName.exe
+C:\Users\Pavel\Documents\Homework\Homework1\PrintMyName\bin\Debug\PrintMyName.pdb
+C:\Users\Pavel\Documents\Homework\Homework1\PrintMyName\obj\Debug\PrintMyName.csprojAssemblyReference.cache
+C:\Users\Pavel\Documents\Homework\Homework1\PrintMyName\obj\Debug\PrintMyName.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\Documents\Homework\Homework1\PrintMyName\obj\Debug\PrintMyName.exe
+C:\Users\Pavel\Documents\Homework\Homework1\PrintMyName\obj\Debug\PrintMyName.pdb
