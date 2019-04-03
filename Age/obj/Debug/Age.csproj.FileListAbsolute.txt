@@ -1,0 +1,7 @@
+C:\Users\Pavel\Documents\Homework\Homework1\Age\bin\Debug\Age.exe.config
+C:\Users\Pavel\Documents\Homework\Homework1\Age\bin\Debug\Age.exe
+C:\Users\Pavel\Documents\Homework\Homework1\Age\bin\Debug\Age.pdb
+C:\Users\Pavel\Documents\Homework\Homework1\Age\obj\Debug\Age.csprojAssemblyReference.cache
+C:\Users\Pavel\Documents\Homework\Homework1\Age\obj\Debug\Age.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\Documents\Homework\Homework1\Age\obj\Debug\Age.exe
+C:\Users\Pavel\Documents\Homework\Homework1\Age\obj\Debug\Age.pdb
