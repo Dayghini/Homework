@@ -1,0 +1,6 @@
+C:\Users\Pavel\Documents\Homework\Homework1\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\Documents\Homework\Homework1\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.exe.config
+C:\Users\Pavel\Documents\Homework\Homework1\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.exe
+C:\Users\Pavel\Documents\Homework\Homework1\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.pdb
+C:\Users\Pavel\Documents\Homework\Homework1\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.exe
+C:\Users\Pavel\Documents\Homework\Homework1\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.pdb

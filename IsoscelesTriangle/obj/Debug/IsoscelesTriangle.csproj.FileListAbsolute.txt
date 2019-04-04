@@ -1,0 +1,7 @@
+C:\Users\Pavel\Documents\Homework\Homework1\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.exe.config
+C:\Users\Pavel\Documents\Homework\Homework1\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.exe
+C:\Users\Pavel\Documents\Homework\Homework1\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.pdb
+C:\Users\Pavel\Documents\Homework\Homework1\IsoscelesTriangle\obj\Debug\IsoscelesTriangle.csprojAssemblyReference.cache
+C:\Users\Pavel\Documents\Homework\Homework1\IsoscelesTriangle\obj\Debug\IsoscelesTriangle.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\Documents\Homework\Homework1\IsoscelesTriangle\obj\Debug\IsoscelesTriangle.exe
+C:\Users\Pavel\Documents\Homework\Homework1\IsoscelesTriangle\obj\Debug\IsoscelesTriangle.pdb

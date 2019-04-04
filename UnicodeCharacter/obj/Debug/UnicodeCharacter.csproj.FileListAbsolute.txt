@@ -1,0 +1,6 @@
+C:\Users\Pavel\Documents\Homework\Homework1\UnicodeCharacter\bin\Debug\UnicodeCharacter.exe.config
+C:\Users\Pavel\Documents\Homework\Homework1\UnicodeCharacter\bin\Debug\UnicodeCharacter.exe
+C:\Users\Pavel\Documents\Homework\Homework1\UnicodeCharacter\bin\Debug\UnicodeCharacter.pdb
+C:\Users\Pavel\Documents\Homework\Homework1\UnicodeCharacter\obj\Debug\UnicodeCharacter.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\Documents\Homework\Homework1\UnicodeCharacter\obj\Debug\UnicodeCharacter.exe
+C:\Users\Pavel\Documents\Homework\Homework1\UnicodeCharacter\obj\Debug\UnicodeCharacter.pdb

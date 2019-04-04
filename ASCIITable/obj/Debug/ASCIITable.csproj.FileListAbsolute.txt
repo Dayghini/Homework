@@ -1,0 +1,7 @@
+C:\Users\Pavel\Documents\Homework\Homework1\ASCIITable\obj\Debug\ASCIITable.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\Documents\Homework\Homework1\ASCIITable\bin\Debug\ASCIITable.exe.config
+C:\Users\Pavel\Documents\Homework\Homework1\ASCIITable\bin\Debug\ASCIITable.exe
+C:\Users\Pavel\Documents\Homework\Homework1\ASCIITable\bin\Debug\ASCIITable.pdb
+C:\Users\Pavel\Documents\Homework\Homework1\ASCIITable\obj\Debug\ASCIITable.exe
+C:\Users\Pavel\Documents\Homework\Homework1\ASCIITable\obj\Debug\ASCIITable.pdb
+C:\Users\Pavel\Documents\Homework\Homework1\ASCIITable\obj\Debug\ASCIITable.csprojAssemblyReference.cache

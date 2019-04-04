@@ -1,0 +1,7 @@
+C:\Users\Pavel\Documents\Homework\Homework1\VariableInHexadecimalFormat\bin\Debug\VariableInHexadecimalFormat.exe.config
+C:\Users\Pavel\Documents\Homework\Homework1\VariableInHexadecimalFormat\bin\Debug\VariableInHexadecimalFormat.exe
+C:\Users\Pavel\Documents\Homework\Homework1\VariableInHexadecimalFormat\bin\Debug\VariableInHexadecimalFormat.pdb
+C:\Users\Pavel\Documents\Homework\Homework1\VariableInHexadecimalFormat\obj\Debug\VariableInHexadecimalFormat.csprojAssemblyReference.cache
+C:\Users\Pavel\Documents\Homework\Homework1\VariableInHexadecimalFormat\obj\Debug\VariableInHexadecimalFormat.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\Documents\Homework\Homework1\VariableInHexadecimalFormat\obj\Debug\VariableInHexadecimalFormat.exe
+C:\Users\Pavel\Documents\Homework\Homework1\VariableInHexadecimalFormat\obj\Debug\VariableInHexadecimalFormat.pdb

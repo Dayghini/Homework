@@ -1,0 +1,6 @@
+C:\Users\Pavel\Documents\Homework\Homework1\QuotesInStrings\bin\Debug\QuotesInStrings.exe.config
+C:\Users\Pavel\Documents\Homework\Homework1\QuotesInStrings\bin\Debug\QuotesInStrings.exe
+C:\Users\Pavel\Documents\Homework\Homework1\QuotesInStrings\bin\Debug\QuotesInStrings.pdb
+C:\Users\Pavel\Documents\Homework\Homework1\QuotesInStrings\obj\Debug\QuotesInStrings.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\Documents\Homework\Homework1\QuotesInStrings\obj\Debug\QuotesInStrings.exe
+C:\Users\Pavel\Documents\Homework\Homework1\QuotesInStrings\obj\Debug\QuotesInStrings.pdb

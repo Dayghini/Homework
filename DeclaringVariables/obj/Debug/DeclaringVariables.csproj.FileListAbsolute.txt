@@ -1,0 +1,7 @@
+C:\Users\Pavel\Documents\Homework\Homework1\DeclaringVariables\bin\Debug\DeclaringVariables.exe.config
+C:\Users\Pavel\Documents\Homework\Homework1\DeclaringVariables\bin\Debug\DeclaringVariables.exe
+C:\Users\Pavel\Documents\Homework\Homework1\DeclaringVariables\bin\Debug\DeclaringVariables.pdb
+C:\Users\Pavel\Documents\Homework\Homework1\DeclaringVariables\obj\Debug\DeclaringVariables.csprojAssemblyReference.cache
+C:\Users\Pavel\Documents\Homework\Homework1\DeclaringVariables\obj\Debug\DeclaringVariables.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\Documents\Homework\Homework1\DeclaringVariables\obj\Debug\DeclaringVariables.exe
+C:\Users\Pavel\Documents\Homework\Homework1\DeclaringVariables\obj\Debug\DeclaringVariables.pdb

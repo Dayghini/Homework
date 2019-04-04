@@ -1,0 +1,6 @@
+C:\Users\Pavel\Documents\Homework\Homework1\EmployeeData\bin\Debug\EmployeeData.exe.config
+C:\Users\Pavel\Documents\Homework\Homework1\EmployeeData\bin\Debug\EmployeeData.exe
+C:\Users\Pavel\Documents\Homework\Homework1\EmployeeData\bin\Debug\EmployeeData.pdb
+C:\Users\Pavel\Documents\Homework\Homework1\EmployeeData\obj\Debug\EmployeeData.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\Documents\Homework\Homework1\EmployeeData\obj\Debug\EmployeeData.exe
+C:\Users\Pavel\Documents\Homework\Homework1\EmployeeData\obj\Debug\EmployeeData.pdb

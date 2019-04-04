@@ -1,0 +1,6 @@
+C:\Users\Pavel\Documents\Homework\Homework1\BooleanVariable\obj\Debug\BooleanVariable.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\Documents\Homework\Homework1\BooleanVariable\bin\Debug\BooleanVariable.exe.config
+C:\Users\Pavel\Documents\Homework\Homework1\BooleanVariable\bin\Debug\BooleanVariable.exe
+C:\Users\Pavel\Documents\Homework\Homework1\BooleanVariable\bin\Debug\BooleanVariable.pdb
+C:\Users\Pavel\Documents\Homework\Homework1\BooleanVariable\obj\Debug\BooleanVariable.exe
+C:\Users\Pavel\Documents\Homework\Homework1\BooleanVariable\obj\Debug\BooleanVariable.pdb

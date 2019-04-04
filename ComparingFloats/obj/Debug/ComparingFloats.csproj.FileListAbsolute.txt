@@ -1,0 +1,7 @@
+C:\Users\Pavel\Documents\Homework\Homework1\ComparingFloats\bin\Debug\ComparingFloats.exe.config
+C:\Users\Pavel\Documents\Homework\Homework1\ComparingFloats\bin\Debug\ComparingFloats.exe
+C:\Users\Pavel\Documents\Homework\Homework1\ComparingFloats\bin\Debug\ComparingFloats.pdb
+C:\Users\Pavel\Documents\Homework\Homework1\ComparingFloats\obj\Debug\ComparingFloats.csprojAssemblyReference.cache
+C:\Users\Pavel\Documents\Homework\Homework1\ComparingFloats\obj\Debug\ComparingFloats.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\Documents\Homework\Homework1\ComparingFloats\obj\Debug\ComparingFloats.exe
+C:\Users\Pavel\Documents\Homework\Homework1\ComparingFloats\obj\Debug\ComparingFloats.pdb
