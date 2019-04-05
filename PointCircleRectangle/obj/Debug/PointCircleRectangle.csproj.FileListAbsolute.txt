@@ -1,0 +1,6 @@
+C:\Users\Pavel\Documents\Homework\Homework1\PointCircleRectangle\bin\Debug\PointCircleRectangle.exe.config
+C:\Users\Pavel\Documents\Homework\Homework1\PointCircleRectangle\bin\Debug\PointCircleRectangle.exe
+C:\Users\Pavel\Documents\Homework\Homework1\PointCircleRectangle\bin\Debug\PointCircleRectangle.pdb
+C:\Users\Pavel\Documents\Homework\Homework1\PointCircleRectangle\obj\Debug\PointCircleRectangle.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\Documents\Homework\Homework1\PointCircleRectangle\obj\Debug\PointCircleRectangle.exe
+C:\Users\Pavel\Documents\Homework\Homework1\PointCircleRectangle\obj\Debug\PointCircleRectangle.pdb

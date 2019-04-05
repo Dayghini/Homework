@@ -1,0 +1,6 @@
+C:\Users\Pavel\Documents\Homework\Homework1\MoonGravity\bin\Debug\MoonGravity.exe.config
+C:\Users\Pavel\Documents\Homework\Homework1\MoonGravity\bin\Debug\MoonGravity.exe
+C:\Users\Pavel\Documents\Homework\Homework1\MoonGravity\bin\Debug\MoonGravity.pdb
+C:\Users\Pavel\Documents\Homework\Homework1\MoonGravity\obj\Debug\MoonGravity.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\Documents\Homework\Homework1\MoonGravity\obj\Debug\MoonGravity.exe
+C:\Users\Pavel\Documents\Homework\Homework1\MoonGravity\obj\Debug\MoonGravity.pdb

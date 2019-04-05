@@ -1,0 +1,6 @@
+C:\Users\Pavel\Documents\Homework\Homework1\ThirdDigit\bin\Debug\ThirdDigit.exe.config
+C:\Users\Pavel\Documents\Homework\Homework1\ThirdDigit\bin\Debug\ThirdDigit.exe
+C:\Users\Pavel\Documents\Homework\Homework1\ThirdDigit\bin\Debug\ThirdDigit.pdb
+C:\Users\Pavel\Documents\Homework\Homework1\ThirdDigit\obj\Debug\ThirdDigit.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\Documents\Homework\Homework1\ThirdDigit\obj\Debug\ThirdDigit.exe
+C:\Users\Pavel\Documents\Homework\Homework1\ThirdDigit\obj\Debug\ThirdDigit.pdb

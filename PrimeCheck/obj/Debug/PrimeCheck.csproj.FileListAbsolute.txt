@@ -1,0 +1,6 @@
+C:\Users\Pavel\Documents\Homework\Homework1\PrimeCheck\bin\Debug\PrimeCheck.exe.config
+C:\Users\Pavel\Documents\Homework\Homework1\PrimeCheck\bin\Debug\PrimeCheck.exe
+C:\Users\Pavel\Documents\Homework\Homework1\PrimeCheck\bin\Debug\PrimeCheck.pdb
+C:\Users\Pavel\Documents\Homework\Homework1\PrimeCheck\obj\Debug\PrimeCheck.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\Documents\Homework\Homework1\PrimeCheck\obj\Debug\PrimeCheck.exe
+C:\Users\Pavel\Documents\Homework\Homework1\PrimeCheck\obj\Debug\PrimeCheck.pdb

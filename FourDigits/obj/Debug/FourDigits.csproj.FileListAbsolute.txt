@@ -1,0 +1,6 @@
+C:\Users\Pavel\Documents\Homework\Homework1\FourDigits\bin\Debug\FourDigits.exe.config
+C:\Users\Pavel\Documents\Homework\Homework1\FourDigits\bin\Debug\FourDigits.exe
+C:\Users\Pavel\Documents\Homework\Homework1\FourDigits\bin\Debug\FourDigits.pdb
+C:\Users\Pavel\Documents\Homework\Homework1\FourDigits\obj\Debug\FourDigits.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\Documents\Homework\Homework1\FourDigits\obj\Debug\FourDigits.exe
+C:\Users\Pavel\Documents\Homework\Homework1\FourDigits\obj\Debug\FourDigits.pdb

@@ -1,0 +1,6 @@
+C:\Users\Pavel\Documents\Homework\Homework1\DivideBySevenAndFive\bin\Debug\DivideBySevenAndFive.exe.config
+C:\Users\Pavel\Documents\Homework\Homework1\DivideBySevenAndFive\bin\Debug\DivideBySevenAndFive.exe
+C:\Users\Pavel\Documents\Homework\Homework1\DivideBySevenAndFive\bin\Debug\DivideBySevenAndFive.pdb
+C:\Users\Pavel\Documents\Homework\Homework1\DivideBySevenAndFive\obj\Debug\DivideBySevenAndFive.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\Documents\Homework\Homework1\DivideBySevenAndFive\obj\Debug\DivideBySevenAndFive.exe
+C:\Users\Pavel\Documents\Homework\Homework1\DivideBySevenAndFive\obj\Debug\DivideBySevenAndFive.pdb

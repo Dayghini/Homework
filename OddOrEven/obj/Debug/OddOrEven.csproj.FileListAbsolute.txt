@@ -1,0 +1,7 @@
+C:\Users\Pavel\Documents\Homework\Homework1\OddOrEven\bin\Debug\OddOrEven.exe.config
+C:\Users\Pavel\Documents\Homework\Homework1\OddOrEven\bin\Debug\OddOrEven.exe
+C:\Users\Pavel\Documents\Homework\Homework1\OddOrEven\bin\Debug\OddOrEven.pdb
+C:\Users\Pavel\Documents\Homework\Homework1\OddOrEven\obj\Debug\OddOrEven.csprojAssemblyReference.cache
+C:\Users\Pavel\Documents\Homework\Homework1\OddOrEven\obj\Debug\OddOrEven.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\Documents\Homework\Homework1\OddOrEven\obj\Debug\OddOrEven.exe
+C:\Users\Pavel\Documents\Homework\Homework1\OddOrEven\obj\Debug\OddOrEven.pdb

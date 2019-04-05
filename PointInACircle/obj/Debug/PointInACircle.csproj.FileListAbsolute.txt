@@ -1,0 +1,6 @@
+C:\Users\Pavel\Documents\Homework\Homework1\PointInACircle\obj\Debug\PointInACircle.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\Documents\Homework\Homework1\PointInACircle\bin\Debug\PointInACircle.exe.config
+C:\Users\Pavel\Documents\Homework\Homework1\PointInACircle\bin\Debug\PointInACircle.exe
+C:\Users\Pavel\Documents\Homework\Homework1\PointInACircle\bin\Debug\PointInACircle.pdb
+C:\Users\Pavel\Documents\Homework\Homework1\PointInACircle\obj\Debug\PointInACircle.exe
+C:\Users\Pavel\Documents\Homework\Homework1\PointInACircle\obj\Debug\PointInACircle.pdb

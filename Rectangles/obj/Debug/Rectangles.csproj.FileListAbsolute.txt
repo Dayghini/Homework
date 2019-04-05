@@ -1,0 +1,6 @@
+C:\Users\Pavel\Documents\Homework\Homework1\Rectangles\bin\Debug\Rectangles.exe.config
+C:\Users\Pavel\Documents\Homework\Homework1\Rectangles\bin\Debug\Rectangles.exe
+C:\Users\Pavel\Documents\Homework\Homework1\Rectangles\bin\Debug\Rectangles.pdb
+C:\Users\Pavel\Documents\Homework\Homework1\Rectangles\obj\Debug\Rectangles.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\Documents\Homework\Homework1\Rectangles\obj\Debug\Rectangles.exe
+C:\Users\Pavel\Documents\Homework\Homework1\Rectangles\obj\Debug\Rectangles.pdb
