@@ -1,0 +1,7 @@
+C:\Users\Pavel\Documents\Homework\Homework1\AMessageToStoyan\bin\Debug\AMessageToStoyan.exe.config
+C:\Users\Pavel\Documents\Homework\Homework1\AMessageToStoyan\bin\Debug\AMessageToStoyan.exe
+C:\Users\Pavel\Documents\Homework\Homework1\AMessageToStoyan\bin\Debug\AMessageToStoyan.pdb
+C:\Users\Pavel\Documents\Homework\Homework1\AMessageToStoyan\obj\Debug\AMessageToStoyan.csprojAssemblyReference.cache
+C:\Users\Pavel\Documents\Homework\Homework1\AMessageToStoyan\obj\Debug\AMessageToStoyan.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\Documents\Homework\Homework1\AMessageToStoyan\obj\Debug\AMessageToStoyan.exe
+C:\Users\Pavel\Documents\Homework\Homework1\AMessageToStoyan\obj\Debug\AMessageToStoyan.pdb
