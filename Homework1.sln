@@ -71,6 +71,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PointCircleRectangle", "Poi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AMessageToStoyan", "AMessageToStoyan\AMessageToStoyan.csproj", "{56E26F02-B281-4717-82E5-9FDEE8B617F4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IHaveToCommit", "IHaveToCommit\IHaveToCommit.csproj", "{CD9E4F91-4173-4C9C-AEDC-DA7097EF3430}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -213,6 +215,10 @@ Global
 		{56E26F02-B281-4717-82E5-9FDEE8B617F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{56E26F02-B281-4717-82E5-9FDEE8B617F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{56E26F02-B281-4717-82E5-9FDEE8B617F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD9E4F91-4173-4C9C-AEDC-DA7097EF3430}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD9E4F91-4173-4C9C-AEDC-DA7097EF3430}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD9E4F91-4173-4C9C-AEDC-DA7097EF3430}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD9E4F91-4173-4C9C-AEDC-DA7097EF3430}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

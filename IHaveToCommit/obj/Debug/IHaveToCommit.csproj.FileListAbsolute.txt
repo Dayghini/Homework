@@ -1,0 +1,7 @@
+C:\Users\Pavel\Documents\Homework\Homework1\IHaveToCommit\bin\Debug\IHaveToCommit.exe.config
+C:\Users\Pavel\Documents\Homework\Homework1\IHaveToCommit\bin\Debug\IHaveToCommit.exe
+C:\Users\Pavel\Documents\Homework\Homework1\IHaveToCommit\bin\Debug\IHaveToCommit.pdb
+C:\Users\Pavel\Documents\Homework\Homework1\IHaveToCommit\obj\Debug\IHaveToCommit.csprojAssemblyReference.cache
+C:\Users\Pavel\Documents\Homework\Homework1\IHaveToCommit\obj\Debug\IHaveToCommit.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\Documents\Homework\Homework1\IHaveToCommit\obj\Debug\IHaveToCommit.exe
+C:\Users\Pavel\Documents\Homework\Homework1\IHaveToCommit\obj\Debug\IHaveToCommit.pdb
