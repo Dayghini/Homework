@@ -1,0 +1,6 @@
+C:\Users\Pavel\Documents\Homework\Homework1\SumOfNNumb\bin\Debug\SumOfNNumb.exe.config
+C:\Users\Pavel\Documents\Homework\Homework1\SumOfNNumb\bin\Debug\SumOfNNumb.exe
+C:\Users\Pavel\Documents\Homework\Homework1\SumOfNNumb\bin\Debug\SumOfNNumb.pdb
+C:\Users\Pavel\Documents\Homework\Homework1\SumOfNNumb\obj\Debug\SumOfNNumb.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\Documents\Homework\Homework1\SumOfNNumb\obj\Debug\SumOfNNumb.exe
+C:\Users\Pavel\Documents\Homework\Homework1\SumOfNNumb\obj\Debug\SumOfNNumb.pdb

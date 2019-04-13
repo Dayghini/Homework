@@ -1,0 +1,6 @@
+C:\Users\Pavel\Documents\Homework\Homework1\SumOfFiveNumbers\bin\Debug\SumOfFiveNumbers.exe.config
+C:\Users\Pavel\Documents\Homework\Homework1\SumOfFiveNumbers\bin\Debug\SumOfFiveNumbers.exe
+C:\Users\Pavel\Documents\Homework\Homework1\SumOfFiveNumbers\bin\Debug\SumOfFiveNumbers.pdb
+C:\Users\Pavel\Documents\Homework\Homework1\SumOfFiveNumbers\obj\Debug\SumOfFiveNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\Documents\Homework\Homework1\SumOfFiveNumbers\obj\Debug\SumOfFiveNumbers.exe
+C:\Users\Pavel\Documents\Homework\Homework1\SumOfFiveNumbers\obj\Debug\SumOfFiveNumbers.pdb

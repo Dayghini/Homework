@@ -1,0 +1,6 @@
+C:\Users\Pavel\Documents\Homework\Homework1\NumbersFromOneToN\bin\Debug\NumbersFromOneToN.exe.config
+C:\Users\Pavel\Documents\Homework\Homework1\NumbersFromOneToN\bin\Debug\NumbersFromOneToN.exe
+C:\Users\Pavel\Documents\Homework\Homework1\NumbersFromOneToN\bin\Debug\NumbersFromOneToN.pdb
+C:\Users\Pavel\Documents\Homework\Homework1\NumbersFromOneToN\obj\Debug\NumbersFromOneToN.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\Documents\Homework\Homework1\NumbersFromOneToN\obj\Debug\NumbersFromOneToN.exe
+C:\Users\Pavel\Documents\Homework\Homework1\NumbersFromOneToN\obj\Debug\NumbersFromOneToN.pdb

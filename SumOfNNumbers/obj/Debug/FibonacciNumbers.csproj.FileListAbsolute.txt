@@ -1,0 +1,6 @@
+C:\Users\Pavel\Documents\Homework\Homework1\SumOfNNumbers\bin\Debug\SumOfNNumbers.exe.config
+C:\Users\Pavel\Documents\Homework\Homework1\SumOfNNumbers\bin\Debug\SumOfNNumbers.exe
+C:\Users\Pavel\Documents\Homework\Homework1\SumOfNNumbers\bin\Debug\SumOfNNumbers.pdb
+C:\Users\Pavel\Documents\Homework\Homework1\SumOfNNumbers\obj\Debug\FibonacciNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\Documents\Homework\Homework1\SumOfNNumbers\obj\Debug\SumOfNNumbers.exe
+C:\Users\Pavel\Documents\Homework\Homework1\SumOfNNumbers\obj\Debug\SumOfNNumbers.pdb

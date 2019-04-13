@@ -1,0 +1,6 @@
+C:\Users\Pavel\Documents\Homework\Homework1\NumberCompape\bin\Debug\NumberCompape.exe.config
+C:\Users\Pavel\Documents\Homework\Homework1\NumberCompape\bin\Debug\NumberCompape.exe
+C:\Users\Pavel\Documents\Homework\Homework1\NumberCompape\bin\Debug\NumberCompape.pdb
+C:\Users\Pavel\Documents\Homework\Homework1\NumberCompape\obj\Debug\NumberComparer.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\Documents\Homework\Homework1\NumberCompape\obj\Debug\NumberCompape.exe
+C:\Users\Pavel\Documents\Homework\Homework1\NumberCompape\obj\Debug\NumberCompape.pdb

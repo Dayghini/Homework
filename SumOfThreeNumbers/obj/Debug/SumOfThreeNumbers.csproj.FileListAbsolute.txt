@@ -1,0 +1,7 @@
+C:\Users\Pavel\Documents\Homework\Homework1\SumOfThreeNumbers\obj\Debug\SumOfThreeNumbers.csprojAssemblyReference.cache
+C:\Users\Pavel\Documents\Homework\Homework1\SumOfThreeNumbers\obj\Debug\SumOfThreeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\Documents\Homework\Homework1\SumOfThreeNumbers\bin\Debug\SumOfThreeNumbers.exe.config
+C:\Users\Pavel\Documents\Homework\Homework1\SumOfThreeNumbers\bin\Debug\SumOfThreeNumbers.exe
+C:\Users\Pavel\Documents\Homework\Homework1\SumOfThreeNumbers\bin\Debug\SumOfThreeNumbers.pdb
+C:\Users\Pavel\Documents\Homework\Homework1\SumOfThreeNumbers\obj\Debug\SumOfThreeNumbers.exe
+C:\Users\Pavel\Documents\Homework\Homework1\SumOfThreeNumbers\obj\Debug\SumOfThreeNumbers.pdb

@@ -1,0 +1,6 @@
+C:\Users\Pavel\Documents\Homework\Homework1\Circle\obj\Debug\Circle.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\Documents\Homework\Homework1\Circle\bin\Debug\Circle.exe.config
+C:\Users\Pavel\Documents\Homework\Homework1\Circle\bin\Debug\Circle.exe
+C:\Users\Pavel\Documents\Homework\Homework1\Circle\bin\Debug\Circle.pdb
+C:\Users\Pavel\Documents\Homework\Homework1\Circle\obj\Debug\Circle.exe
+C:\Users\Pavel\Documents\Homework\Homework1\Circle\obj\Debug\Circle.pdb

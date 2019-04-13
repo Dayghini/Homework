@@ -1,0 +1,7 @@
+C:\Users\Pavel\Documents\Homework\Homework1\FormattingNumbers\bin\Debug\FormattingNumbers.exe.config
+C:\Users\Pavel\Documents\Homework\Homework1\FormattingNumbers\bin\Debug\FormattingNumbers.exe
+C:\Users\Pavel\Documents\Homework\Homework1\FormattingNumbers\bin\Debug\FormattingNumbers.pdb
+C:\Users\Pavel\Documents\Homework\Homework1\FormattingNumbers\obj\Debug\FormattingNumbers.csprojAssemblyReference.cache
+C:\Users\Pavel\Documents\Homework\Homework1\FormattingNumbers\obj\Debug\FormattingNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\Documents\Homework\Homework1\FormattingNumbers\obj\Debug\FormattingNumbers.exe
+C:\Users\Pavel\Documents\Homework\Homework1\FormattingNumbers\obj\Debug\FormattingNumbers.pdb
