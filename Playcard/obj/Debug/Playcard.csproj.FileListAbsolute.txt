@@ -1,0 +1,6 @@
+C:\Users\Pavel\Documents\Homework\Homework1\Playcard\bin\Debug\Playcard.exe.config
+C:\Users\Pavel\Documents\Homework\Homework1\Playcard\bin\Debug\Playcard.exe
+C:\Users\Pavel\Documents\Homework\Homework1\Playcard\bin\Debug\Playcard.pdb
+C:\Users\Pavel\Documents\Homework\Homework1\Playcard\obj\Debug\Playcard.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\Documents\Homework\Homework1\Playcard\obj\Debug\Playcard.exe
+C:\Users\Pavel\Documents\Homework\Homework1\Playcard\obj\Debug\Playcard.pdb

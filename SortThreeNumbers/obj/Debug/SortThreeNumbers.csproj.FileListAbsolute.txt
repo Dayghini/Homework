@@ -1,0 +1,6 @@
+C:\Users\Pavel\Documents\Homework\Homework1\SortThreeNumbers\obj\Debug\SortThreeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\Documents\Homework\Homework1\SortThreeNumbers\bin\Debug\SortThreeNumbers.exe.config
+C:\Users\Pavel\Documents\Homework\Homework1\SortThreeNumbers\bin\Debug\SortThreeNumbers.exe
+C:\Users\Pavel\Documents\Homework\Homework1\SortThreeNumbers\bin\Debug\SortThreeNumbers.pdb
+C:\Users\Pavel\Documents\Homework\Homework1\SortThreeNumbers\obj\Debug\SortThreeNumbers.exe
+C:\Users\Pavel\Documents\Homework\Homework1\SortThreeNumbers\obj\Debug\SortThreeNumbers.pdb

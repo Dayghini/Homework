@@ -1,0 +1,6 @@
+C:\Users\Pavel\Documents\Homework\Homework1\BiggestOfThree\bin\Debug\BiggestOfThree.exe.config
+C:\Users\Pavel\Documents\Homework\Homework1\BiggestOfThree\bin\Debug\BiggestOfThree.exe
+C:\Users\Pavel\Documents\Homework\Homework1\BiggestOfThree\bin\Debug\BiggestOfThree.pdb
+C:\Users\Pavel\Documents\Homework\Homework1\BiggestOfThree\obj\Debug\BiggestOfThree.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\Documents\Homework\Homework1\BiggestOfThree\obj\Debug\BiggestOfThree.exe
+C:\Users\Pavel\Documents\Homework\Homework1\BiggestOfThree\obj\Debug\BiggestOfThree.pdb

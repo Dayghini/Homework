@@ -1,0 +1,6 @@
+C:\Users\Pavel\Documents\Homework\Homework1\MultiplicationSign\bin\Debug\MultiplicationSign.exe.config
+C:\Users\Pavel\Documents\Homework\Homework1\MultiplicationSign\bin\Debug\MultiplicationSign.exe
+C:\Users\Pavel\Documents\Homework\Homework1\MultiplicationSign\bin\Debug\MultiplicationSign.pdb
+C:\Users\Pavel\Documents\Homework\Homework1\MultiplicationSign\obj\Debug\MultiplicationSign.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\Documents\Homework\Homework1\MultiplicationSign\obj\Debug\MultiplicationSign.exe
+C:\Users\Pavel\Documents\Homework\Homework1\MultiplicationSign\obj\Debug\MultiplicationSign.pdb

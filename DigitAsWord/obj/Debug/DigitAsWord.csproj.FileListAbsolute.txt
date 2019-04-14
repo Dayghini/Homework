@@ -1,0 +1,6 @@
+C:\Users\Pavel\Documents\Homework\Homework1\DigitAsWord\bin\Debug\DigitAsWord.exe.config
+C:\Users\Pavel\Documents\Homework\Homework1\DigitAsWord\bin\Debug\DigitAsWord.exe
+C:\Users\Pavel\Documents\Homework\Homework1\DigitAsWord\bin\Debug\DigitAsWord.pdb
+C:\Users\Pavel\Documents\Homework\Homework1\DigitAsWord\obj\Debug\DigitAsWord.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\Documents\Homework\Homework1\DigitAsWord\obj\Debug\DigitAsWord.exe
+C:\Users\Pavel\Documents\Homework\Homework1\DigitAsWord\obj\Debug\DigitAsWord.pdb

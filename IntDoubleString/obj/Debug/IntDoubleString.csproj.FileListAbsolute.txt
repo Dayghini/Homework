@@ -1,0 +1,6 @@
+C:\Users\Pavel\Documents\Homework\Homework1\IntDoubleString\bin\Debug\IntDoubleString.exe.config
+C:\Users\Pavel\Documents\Homework\Homework1\IntDoubleString\bin\Debug\IntDoubleString.exe
+C:\Users\Pavel\Documents\Homework\Homework1\IntDoubleString\bin\Debug\IntDoubleString.pdb
+C:\Users\Pavel\Documents\Homework\Homework1\IntDoubleString\obj\Debug\IntDoubleString.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\Documents\Homework\Homework1\IntDoubleString\obj\Debug\IntDoubleString.exe
+C:\Users\Pavel\Documents\Homework\Homework1\IntDoubleString\obj\Debug\IntDoubleString.pdb

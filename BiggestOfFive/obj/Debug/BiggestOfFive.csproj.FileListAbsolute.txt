@@ -1,0 +1,6 @@
+C:\Users\Pavel\Documents\Homework\Homework1\BiggestOfFive\bin\Debug\BiggestOfFive.exe.config
+C:\Users\Pavel\Documents\Homework\Homework1\BiggestOfFive\bin\Debug\BiggestOfFive.exe
+C:\Users\Pavel\Documents\Homework\Homework1\BiggestOfFive\bin\Debug\BiggestOfFive.pdb
+C:\Users\Pavel\Documents\Homework\Homework1\BiggestOfFive\obj\Debug\BiggestOfFive.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\Documents\Homework\Homework1\BiggestOfFive\obj\Debug\BiggestOfFive.exe
+C:\Users\Pavel\Documents\Homework\Homework1\BiggestOfFive\obj\Debug\BiggestOfFive.pdb

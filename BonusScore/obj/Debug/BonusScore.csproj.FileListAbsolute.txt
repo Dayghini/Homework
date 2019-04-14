@@ -1,0 +1,6 @@
+C:\Users\Pavel\Documents\Homework\Homework1\BonusScore\bin\Debug\BonusScore.exe.config
+C:\Users\Pavel\Documents\Homework\Homework1\BonusScore\bin\Debug\BonusScore.exe
+C:\Users\Pavel\Documents\Homework\Homework1\BonusScore\bin\Debug\BonusScore.pdb
+C:\Users\Pavel\Documents\Homework\Homework1\BonusScore\obj\Debug\BonusScore.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\Documents\Homework\Homework1\BonusScore\obj\Debug\BonusScore.exe
+C:\Users\Pavel\Documents\Homework\Homework1\BonusScore\obj\Debug\BonusScore.pdb

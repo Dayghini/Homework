@@ -1,0 +1,7 @@
+C:\Users\Pavel\Documents\Homework\Homework1\ExchangeNumbers\bin\Debug\ExchangeNumbers.exe.config
+C:\Users\Pavel\Documents\Homework\Homework1\ExchangeNumbers\bin\Debug\ExchangeNumbers.exe
+C:\Users\Pavel\Documents\Homework\Homework1\ExchangeNumbers\bin\Debug\ExchangeNumbers.pdb
+C:\Users\Pavel\Documents\Homework\Homework1\ExchangeNumbers\obj\Debug\ExchangeNumbers.csprojAssemblyReference.cache
+C:\Users\Pavel\Documents\Homework\Homework1\ExchangeNumbers\obj\Debug\ExchangeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\Documents\Homework\Homework1\ExchangeNumbers\obj\Debug\ExchangeNumbers.exe
+C:\Users\Pavel\Documents\Homework\Homework1\ExchangeNumbers\obj\Debug\ExchangeNumbers.pdb
