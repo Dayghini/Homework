@@ -1,0 +1,7 @@
+C:\Users\Pavel\Documents\Homework\Homework1\Game\bin\Debug\Game.exe.config
+C:\Users\Pavel\Documents\Homework\Homework1\Game\bin\Debug\Game.exe
+C:\Users\Pavel\Documents\Homework\Homework1\Game\bin\Debug\Game.pdb
+C:\Users\Pavel\Documents\Homework\Homework1\Game\obj\Debug\Game.csprojAssemblyReference.cache
+C:\Users\Pavel\Documents\Homework\Homework1\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\Documents\Homework\Homework1\Game\obj\Debug\Game.exe
+C:\Users\Pavel\Documents\Homework\Homework1\Game\obj\Debug\Game.pdb

@@ -111,6 +111,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitAsWord", "DigitAsWord\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntDoubleString", "IntDoubleString\IntDoubleString.csproj", "{9C5089F1-D08F-40B7-9892-3B2D6C409BED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game", "Game\Game.csproj", "{35067E7C-E60B-4E85-B8A2-2EE087E5DDD1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -333,6 +335,10 @@ Global
 		{9C5089F1-D08F-40B7-9892-3B2D6C409BED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9C5089F1-D08F-40B7-9892-3B2D6C409BED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9C5089F1-D08F-40B7-9892-3B2D6C409BED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35067E7C-E60B-4E85-B8A2-2EE087E5DDD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35067E7C-E60B-4E85-B8A2-2EE087E5DDD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35067E7C-E60B-4E85-B8A2-2EE087E5DDD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35067E7C-E60B-4E85-B8A2-2EE087E5DDD1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
