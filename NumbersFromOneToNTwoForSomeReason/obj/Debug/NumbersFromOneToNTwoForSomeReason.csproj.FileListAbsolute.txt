@@ -1,0 +1,7 @@
+C:\Users\Pavel\Documents\Homework\Homework1\NumbersFromOneToNTwoForSomeReason\bin\Debug\NumbersFromOneToNTwoForSomeReason.exe.config
+C:\Users\Pavel\Documents\Homework\Homework1\NumbersFromOneToNTwoForSomeReason\bin\Debug\NumbersFromOneToNTwoForSomeReason.exe
+C:\Users\Pavel\Documents\Homework\Homework1\NumbersFromOneToNTwoForSomeReason\bin\Debug\NumbersFromOneToNTwoForSomeReason.pdb
+C:\Users\Pavel\Documents\Homework\Homework1\NumbersFromOneToNTwoForSomeReason\obj\Debug\NumbersFromOneToNTwoForSomeReason.csprojAssemblyReference.cache
+C:\Users\Pavel\Documents\Homework\Homework1\NumbersFromOneToNTwoForSomeReason\obj\Debug\NumbersFromOneToNTwoForSomeReason.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\Documents\Homework\Homework1\NumbersFromOneToNTwoForSomeReason\obj\Debug\NumbersFromOneToNTwoForSomeReason.exe
+C:\Users\Pavel\Documents\Homework\Homework1\NumbersFromOneToNTwoForSomeReason\obj\Debug\NumbersFromOneToNTwoForSomeReason.pdb
