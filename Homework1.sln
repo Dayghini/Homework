@@ -115,6 +115,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game", "Game\Game.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumbersFromOneToNTwoForSomeReason", "NumbersFromOneToNTwoForSomeReason\NumbersFromOneToNTwoForSomeReason.csproj", "{2FB02F22-3A68-4F25-8819-5DB200061C65}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotDivisibleNumbers", "NotDivisibleNumbers\NotDivisibleNumbers.csproj", "{2482073B-BE03-47A2-86B4-13EA1C363CFA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -345,6 +347,10 @@ Global
 		{2FB02F22-3A68-4F25-8819-5DB200061C65}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2FB02F22-3A68-4F25-8819-5DB200061C65}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2FB02F22-3A68-4F25-8819-5DB200061C65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2482073B-BE03-47A2-86B4-13EA1C363CFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2482073B-BE03-47A2-86B4-13EA1C363CFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2482073B-BE03-47A2-86B4-13EA1C363CFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2482073B-BE03-47A2-86B4-13EA1C363CFA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,7 @@
+C:\Users\Pavel\Documents\Homework\Homework1\NotDivisibleNumbers\obj\Debug\NotDivisibleNumbers.csprojAssemblyReference.cache
+C:\Users\Pavel\Documents\Homework\Homework1\NotDivisibleNumbers\obj\Debug\NotDivisibleNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\Documents\Homework\Homework1\NotDivisibleNumbers\bin\Debug\NotDivisibleNumbers.exe.config
+C:\Users\Pavel\Documents\Homework\Homework1\NotDivisibleNumbers\bin\Debug\NotDivisibleNumbers.exe
+C:\Users\Pavel\Documents\Homework\Homework1\NotDivisibleNumbers\bin\Debug\NotDivisibleNumbers.pdb
+C:\Users\Pavel\Documents\Homework\Homework1\NotDivisibleNumbers\obj\Debug\NotDivisibleNumbers.exe
+C:\Users\Pavel\Documents\Homework\Homework1\NotDivisibleNumbers\obj\Debug\NotDivisibleNumbers.pdb
