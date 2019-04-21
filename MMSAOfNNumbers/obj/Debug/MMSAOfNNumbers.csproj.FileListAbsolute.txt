@@ -1,0 +1,7 @@
+C:\Users\Pavel\Documents\Homework\Homework1\MMSAOfNNumbers\bin\Debug\MMSAOfNNumbers.exe.config
+C:\Users\Pavel\Documents\Homework\Homework1\MMSAOfNNumbers\bin\Debug\MMSAOfNNumbers.exe
+C:\Users\Pavel\Documents\Homework\Homework1\MMSAOfNNumbers\bin\Debug\MMSAOfNNumbers.pdb
+C:\Users\Pavel\Documents\Homework\Homework1\MMSAOfNNumbers\obj\Debug\MMSAOfNNumbers.csprojAssemblyReference.cache
+C:\Users\Pavel\Documents\Homework\Homework1\MMSAOfNNumbers\obj\Debug\MMSAOfNNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\Documents\Homework\Homework1\MMSAOfNNumbers\obj\Debug\MMSAOfNNumbers.exe
+C:\Users\Pavel\Documents\Homework\Homework1\MMSAOfNNumbers\obj\Debug\MMSAOfNNumbers.pdb
