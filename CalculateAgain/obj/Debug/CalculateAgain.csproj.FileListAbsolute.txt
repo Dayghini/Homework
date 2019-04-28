@@ -1,0 +1,7 @@
+C:\Users\Pavel\Documents\Homework\Homework1\CalculateAgain\bin\Debug\CalculateAgain.exe.config
+C:\Users\Pavel\Documents\Homework\Homework1\CalculateAgain\bin\Debug\CalculateAgain.exe
+C:\Users\Pavel\Documents\Homework\Homework1\CalculateAgain\bin\Debug\CalculateAgain.pdb
+C:\Users\Pavel\Documents\Homework\Homework1\CalculateAgain\obj\Debug\CalculateAgain.csprojAssemblyReference.cache
+C:\Users\Pavel\Documents\Homework\Homework1\CalculateAgain\obj\Debug\CalculateAgain.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\Documents\Homework\Homework1\CalculateAgain\obj\Debug\CalculateAgain.exe
+C:\Users\Pavel\Documents\Homework\Homework1\CalculateAgain\obj\Debug\CalculateAgain.pdb
