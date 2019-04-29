@@ -1,0 +1,7 @@
+C:\Users\Pavel\Documents\Homework\Homework1\OddAndEvenProduct\bin\Debug\OddAndEvenProduct.exe.config
+C:\Users\Pavel\Documents\Homework\Homework1\OddAndEvenProduct\bin\Debug\OddAndEvenProduct.exe
+C:\Users\Pavel\Documents\Homework\Homework1\OddAndEvenProduct\bin\Debug\OddAndEvenProduct.pdb
+C:\Users\Pavel\Documents\Homework\Homework1\OddAndEvenProduct\obj\Debug\OddAndEvenProduct.csprojAssemblyReference.cache
+C:\Users\Pavel\Documents\Homework\Homework1\OddAndEvenProduct\obj\Debug\OddAndEvenProduct.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\Documents\Homework\Homework1\OddAndEvenProduct\obj\Debug\OddAndEvenProduct.exe
+C:\Users\Pavel\Documents\Homework\Homework1\OddAndEvenProduct\obj\Debug\OddAndEvenProduct.pdb
