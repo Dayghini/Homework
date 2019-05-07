@@ -1,0 +1,7 @@
+C:\Users\Pavel\Documents\Homework\Homework1\BinaryToDecimal\bin\Debug\BinaryToDecimal.exe.config
+C:\Users\Pavel\Documents\Homework\Homework1\BinaryToDecimal\bin\Debug\BinaryToDecimal.exe
+C:\Users\Pavel\Documents\Homework\Homework1\BinaryToDecimal\bin\Debug\BinaryToDecimal.pdb
+C:\Users\Pavel\Documents\Homework\Homework1\BinaryToDecimal\obj\Debug\BinaryToDecimal.csprojAssemblyReference.cache
+C:\Users\Pavel\Documents\Homework\Homework1\BinaryToDecimal\obj\Debug\BinaryToDecimal.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\Documents\Homework\Homework1\BinaryToDecimal\obj\Debug\BinaryToDecimal.exe
+C:\Users\Pavel\Documents\Homework\Homework1\BinaryToDecimal\obj\Debug\BinaryToDecimal.pdb
