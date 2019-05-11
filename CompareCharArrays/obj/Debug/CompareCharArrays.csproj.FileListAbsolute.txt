@@ -1,0 +1,6 @@
+C:\Users\Pavel\Documents\Homework\Homework1\CompareCharArrays\bin\Debug\CompareCharArrays.exe.config
+C:\Users\Pavel\Documents\Homework\Homework1\CompareCharArrays\bin\Debug\CompareCharArrays.exe
+C:\Users\Pavel\Documents\Homework\Homework1\CompareCharArrays\bin\Debug\CompareCharArrays.pdb
+C:\Users\Pavel\Documents\Homework\Homework1\CompareCharArrays\obj\Debug\CompareCharArrays.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\Documents\Homework\Homework1\CompareCharArrays\obj\Debug\CompareCharArrays.exe
+C:\Users\Pavel\Documents\Homework\Homework1\CompareCharArrays\obj\Debug\CompareCharArrays.pdb

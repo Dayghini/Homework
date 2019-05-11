@@ -1,0 +1,6 @@
+C:\Users\Pavel\Documents\Homework\Homework1\SelectionSort\bin\Debug\SelectionSort.exe.config
+C:\Users\Pavel\Documents\Homework\Homework1\SelectionSort\bin\Debug\SelectionSort.exe
+C:\Users\Pavel\Documents\Homework\Homework1\SelectionSort\bin\Debug\SelectionSort.pdb
+C:\Users\Pavel\Documents\Homework\Homework1\SelectionSort\obj\Debug\SelectionSort.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\Documents\Homework\Homework1\SelectionSort\obj\Debug\SelectionSort.exe
+C:\Users\Pavel\Documents\Homework\Homework1\SelectionSort\obj\Debug\SelectionSort.pdb

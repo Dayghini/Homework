@@ -1,0 +1,7 @@
+C:\Users\Pavel\Documents\Homework\Homework1\AllocateArray\bin\Debug\AllocateArray.exe.config
+C:\Users\Pavel\Documents\Homework\Homework1\AllocateArray\bin\Debug\AllocateArray.exe
+C:\Users\Pavel\Documents\Homework\Homework1\AllocateArray\bin\Debug\AllocateArray.pdb
+C:\Users\Pavel\Documents\Homework\Homework1\AllocateArray\obj\Debug\AllocateArray.csprojAssemblyReference.cache
+C:\Users\Pavel\Documents\Homework\Homework1\AllocateArray\obj\Debug\AllocateArray.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\Documents\Homework\Homework1\AllocateArray\obj\Debug\AllocateArray.exe
+C:\Users\Pavel\Documents\Homework\Homework1\AllocateArray\obj\Debug\AllocateArray.pdb

@@ -1,0 +1,6 @@
+C:\Users\Pavel\Documents\Homework\Homework1\MaximalSequence\bin\Debug\MaximalSequence.exe.config
+C:\Users\Pavel\Documents\Homework\Homework1\MaximalSequence\bin\Debug\MaximalSequence.exe
+C:\Users\Pavel\Documents\Homework\Homework1\MaximalSequence\bin\Debug\MaximalSequence.pdb
+C:\Users\Pavel\Documents\Homework\Homework1\MaximalSequence\obj\Debug\MaximalSequence.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\Documents\Homework\Homework1\MaximalSequence\obj\Debug\MaximalSequence.exe
+C:\Users\Pavel\Documents\Homework\Homework1\MaximalSequence\obj\Debug\MaximalSequence.pdb

@@ -1,0 +1,6 @@
+C:\Users\Pavel\Documents\Homework\Homework1\MaximalKSum\obj\Debug\MaximalKSum.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\Documents\Homework\Homework1\MaximalKSum\bin\Debug\MaximalKSum.exe.config
+C:\Users\Pavel\Documents\Homework\Homework1\MaximalKSum\bin\Debug\MaximalKSum.exe
+C:\Users\Pavel\Documents\Homework\Homework1\MaximalKSum\bin\Debug\MaximalKSum.pdb
+C:\Users\Pavel\Documents\Homework\Homework1\MaximalKSum\obj\Debug\MaximalKSum.exe
+C:\Users\Pavel\Documents\Homework\Homework1\MaximalKSum\obj\Debug\MaximalKSum.pdb
