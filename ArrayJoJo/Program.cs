@@ -10,7 +10,8 @@ namespace ArrayJoJo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(I HAVE TO WATCH JOJO);
+            string jojo = "AY AY AY AAAAAAAY";
+            Console.WriteLine(jojo);
         }
     }
 }

@@ -1,2 +1,7 @@
 C:\Users\Pavel\Documents\Homework\Homework1\ArrayJoJo\obj\Debug\ArrayJoJo.csprojAssemblyReference.cache
 C:\Users\Pavel\Documents\Homework\Homework1\ArrayJoJo\obj\Debug\ArrayJoJo.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\Documents\Homework\Homework1\ArrayJoJo\bin\Debug\ArrayJoJo.exe.config
+C:\Users\Pavel\Documents\Homework\Homework1\ArrayJoJo\bin\Debug\ArrayJoJo.exe
+C:\Users\Pavel\Documents\Homework\Homework1\ArrayJoJo\bin\Debug\ArrayJoJo.pdb
+C:\Users\Pavel\Documents\Homework\Homework1\ArrayJoJo\obj\Debug\ArrayJoJo.exe
+C:\Users\Pavel\Documents\Homework\Homework1\ArrayJoJo\obj\Debug\ArrayJoJo.pdb
