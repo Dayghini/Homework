@@ -11,7 +11,13 @@ namespace ArrayJoJo
         static void Main(string[] args)
         {
             string jojo = "AY AY AY AAAAAAAY";
+            string gz = "Congratz you found me!";
             Console.WriteLine(jojo);
+
+            Console.ReadLine();
+            Console.WriteLine(gz);
+            //im going to do an array too 
+            //dont worry i am not abandoning my programming for jojo
         }
     }
 }
