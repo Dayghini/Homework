@@ -16,6 +16,9 @@ namespace ArrayJoJo
 
             Console.ReadLine();
             Console.WriteLine(gz);
+
+            string js = "I will be smoking like Jotaro";
+            Console.WriteLine(js);
             //im going to do an array too 
             //dont worry i am not abandoning my programming for jojo
         }
