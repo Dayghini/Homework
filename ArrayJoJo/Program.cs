@@ -22,6 +22,9 @@ namespace ArrayJoJo
 
             string dio = "ZAWARDO";
             Console.WriteLine(dio);
+
+            string JD = "JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai";
+            Console.WriteLine(JD);
             //im going to do an array too 
             //dont worry i am not abandoning my programming for jojo
         }
