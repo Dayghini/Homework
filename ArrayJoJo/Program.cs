@@ -25,6 +25,8 @@ namespace ArrayJoJo
 
             string JD = "JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai";
             Console.WriteLine(JD);
+            string j = "JOSUKE";
+            Console.WriteLine(j);
             //im going to do an array too 
             //dont worry i am not abandoning my programming for jojo
         }
